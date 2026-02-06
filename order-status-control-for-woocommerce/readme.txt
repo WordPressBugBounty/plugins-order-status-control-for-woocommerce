@@ -2,9 +2,9 @@
 Contributors: brightvesseldev, kleinmannbrightvessel 
 Tags: order complete, status control, autocomplete,virtual
 Requires at least: 4.8
-Tested up to: 6.8.2
+Tested up to: 6.8.3
 Requires PHP: 7.4
-Stable Tag: 1.1
+Stable Tag: 1.2
 License: GPLv2 or later
 
 Auto Complete orders for virtual-downloadable products after a successful payment or predefine status.
@@ -26,7 +26,7 @@ Order Status Control option will be found under WooCommerce > Settings > General
 
 ## 🔥 ALL ACCESS MEMBERSHIP 🔥 ##
 
-Unlock all 19 premium WooCommerce plugins with one club membership. [__Join the Club »__](https://brightplugins.com/product/club-membership/?utm_source=freemium&utm_medium=wp_org_page&utm_campaign=upgrade_club_membership)
+Unlock all 19 premium WooCommerce plugins with one club membership. [__Join the Club »__](https://brightplugins.com/product/club-membership/?utm_source=wp_org&utm_medium=order-status-control&utm_campaign=upgrade_club_membership&utm_content=plugin-description)
 
 ## WHAT’S NEXT ##
 
@@ -52,6 +52,10 @@ Unlock all 19 premium WooCommerce plugins with one club membership. [__Join the 
 == Screenshots ==
 
 == Changelog ==
+
+= 1.2 – 2 Dec 2025 =
+* Support for WooCommerce 10.3.x
+* Support for WordPress 6.8.x
 
 = 1.1 – 13 Aug 2025 =
 * Fixed: Notice: Function _load_textdomain_just_in_time was called incorrectly.

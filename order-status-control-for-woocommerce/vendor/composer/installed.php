@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'brightplugins/bv-order-status',
-        'pretty_version' => '1.0.4.x-dev',
-        'version' => '1.0.4.9999999-dev',
-        'reference' => 'dc2c33d90ba73fe15b3d6f56e16f898b34b52938',
+        'pretty_version' => '1.2.x-dev',
+        'version' => '1.2.9999999.9999999-dev',
+        'reference' => '070b57d68021adabb448234e2c88e61239aaf2d3',
         'type' => 'woocommerce-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'brightplugins/bv-order-status' => array(
-            'pretty_version' => '1.0.4.x-dev',
-            'version' => '1.0.4.9999999-dev',
-            'reference' => 'dc2c33d90ba73fe15b3d6f56e16f898b34b52938',
+            'pretty_version' => '1.2.x-dev',
+            'version' => '1.2.9999999.9999999-dev',
+            'reference' => '070b57d68021adabb448234e2c88e61239aaf2d3',
             'type' => 'woocommerce-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -26,6 +26,17 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../collizo4sky/persist-admin-notices-dismissal',
             'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'niloys7/remote-admin-notification-client' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '694960070bb4e18ad3b4832d019922bf28714df7',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../niloys7/remote-admin-notification-client',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
             'dev_requirement' => false,
         ),
     ),
